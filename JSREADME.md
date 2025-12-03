@@ -12,6 +12,9 @@ To implement this system, we added a new Input Action for the charged dash, rewr
 ## Minor Modification: Ghost Flicker Visibility Effect
 The minor modification introduces a ghost flicker effect. Ghosts now fade in and out of visibility over short intervals. This effect is purely visual and does not impact gameplay, movement, or detection. It was achieved by adjusting the ghosts' material alpha values over time. While subtle, this change adds extra atmosphere without altering core mechanics.
 
+## Notes: From the editor
+All of my code, README, and everything else were all built or written externally and copied into or just imported inot GitHub. I set it up this way because I was working on the project at my parents home without acces to a computer. a lot of the readme and even some code was done on my phone, in Google Docs, or in a simple notepad whenever I had time, so I could save time for when I eventually uploaded everything to GitHub 
+
 ## Repository
 https://github.com/meechiexx813-ux/Haunted-House-Final/tree/main
 
