@@ -16,7 +16,7 @@ The minor modification introduces a ghost flicker effect. Ghosts now fade in and
 https://github.com/meecheixx813-ux/Haunted-House-Final
 
 ## Drive Playthrough Link
-https://drive.google.com/drive/folders/1oTdq27bE_dRVSysehXJIKDbXFa4KU0Q?usp=drive_link
+https://drive.google.com/drive/folders/1oTdq27bE_dRVSysehXJIKDkbXfa4KU0Q?usp=drive_link
 
 ## Video Link
-https://youtu.be/AjYl3KceWIk
+https://youtu.be/AjY13kceW1k?si=Nmr-eQjfVDH1gz_Q
