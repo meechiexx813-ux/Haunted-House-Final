@@ -1,0 +1,45 @@
+Haunted House Stealth Game – Project README
+
+## Team Members
+- Jan Di Sapone  
+- Demetrius Dorsey  
+
+## Project Overview
+This project is a modified version of the Haunted House stealth game. It includes one major gameplay modification and one minor visual modification. These changes were created to better the mechanics and atmosphere of the original project.
+
+## Major Modification: Charged Dash with Cooldown and UI Bar
+A custom Charged Dash system was designed to replace the standard dash or movement behavior.
+
+### Features
+- Holding the dash key charges up power.  
+- Releasing the key triggers a dash whose distance is based on charge duration. 
+- A fully charged dash can teleport the player a short distance.  This includes through walls.
+- A UI slider bar displays cooldown progress after each dash that goes away when you have the dash.  
+
+### Task Notes
+- Required adding a new Input Action for the dash.  
+- Required modifying base movement code and adding charging logic.  
+- Added charge time, dash distance, cooldown timers, and UI connections.  
+- Integrated a UI Slider to visually represent cooldown status.
+
+This modification significantly changes how players navigate and escape enemies.
+
+## Minor Modification: Ghost Flicker Visibility Effect
+Ghost characters now flicker in and out of visibility.
+
+### Notes
+- Purely a visual/aesthetic change.  
+- Does not affect ghost detection, movement, or gameplay mechanics.  
+- Implemented using material alpha adjustments over time.  
+
+This modification adds extra atmosphere without altering the core gameplay loop.
+
+## Repository
+https://github.com/meecheixx813-ux/Haunted-House-Final
+
+## Drive Playthrough Link
+[Drive Playthrough Link](https://drive.google.com/drive/folders/1oTdq27bE_dRVSysehXJIKDbXFa4KU0Q?usp=drive_link)
+
+## Video Link
+https://youtu.be/AjYl3KceWIk
+
